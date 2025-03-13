@@ -1,7 +1,7 @@
-// Array of image paths
-const images = [
-   "Slide-1.jpg", "Slide-1a.jpg", "Slide-1b.jpg", "Slide-2.jpg", "Slide-3.jpg", "Slide-3a.jpg", "Slide-4.jpg", "Slide-5.jpg", "Slide-5a.jpg", "Slide-7.jpg"
-];
+// // Array of image paths
+// const images = [
+//    "Slide-1.jpg", "Slide-1a.jpg", "Slide-1b.jpg", "Slide-2.jpg", "Slide-3.jpg", "Slide-3a.jpg", "Slide-4.jpg", "Slide-5.jpg", "Slide-5a.jpg", "Slide-7.jpg"
+// ];
 
 let currentIndex = 0; // Track the current image index
 const slideshowElements = document.querySelectorAll('.slideshow'); // Get all images with the class 'slideshow'
